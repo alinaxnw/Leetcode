@@ -32,10 +32,10 @@ public class M132Pattern {
         return false;
     }
 	
-	public static void main(String[] args){
-		M132Pattern m = new M132Pattern();
-		int[] input = {-1, 3, 2, 0};
-		System.out.println(m.find132pattern(input));
-	}
+//	public static void main(String[] args){
+//		M132Pattern m = new M132Pattern();
+//		int[] input = {-1, 3, 2, 0};
+//		System.out.println(m.find132pattern(input));
+//	}
 
 }
